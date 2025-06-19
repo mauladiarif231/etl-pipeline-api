@@ -1,0 +1,101 @@
+[
+  {
+    "publication_media": "Neue Zürcher Zeitung",
+    "project_title": "Neubau eines Spielplatzes mit barrierefreiem Zugang und moderner Beleuchtung",
+    "date_scraped": "15/03/2024 14:23:45",
+    "project_address": "Bahnhofquai 8",
+    "geocoded_addresses": [
+      {
+        "full_address": "Bahnhofquai, City, Altstadt, Zurich, District Zurich, Zurich, 8001, Switzerland",
+        "latitude": "47.3768866",
+        "longitude": "8.5418596"
+      },
+      {
+        "full_address": "Bahnhofquai, Lindenhof, Altstadt, Zurich, District Zurich, Zurich, 8001, Switzerland",
+        "latitude": "47.3758222",
+        "longitude": "8.5419804"
+      },
+      {
+        "full_address": "Bahnhofquai, Lindenhof, Altstadt, Zurich, District Zurich, Zurich, 8001, Switzerland",
+        "latitude": "47.3761727",
+        "longitude": "8.5416967"
+      },
+      {
+        "full_address": "Bahnhofquai, City, Altstadt, Zurich, District Zurich, Zurich, 8001, Switzerland",
+        "latitude": "47.3765382",
+        "longitude": "8.541848"
+      },
+      {
+        "full_address": "Bahnhofquai, Olten, Bezirk Olten, Amtei Olten-Gösgen, Solothurn, 4601, Switzerland",
+        "latitude": "47.350107",
+        "longitude": "7.9061458"
+      }
+    ],
+    "full_address": "Bahnhofquai, City, Altstadt, Zurich, District Zurich, Zurich, 8001, Switzerland",
+    "latitude": "47.3768866",
+    "longitude": "8.5418596",
+    "geocoding_status": "success"
+  },
+  {
+    "publication_media": "Tages-Anzeiger",
+    "project_title": "Sanierung der Fassade und Installation von Solarpanels",
+    "date_scraped": "22/04/2024 09:11:32",
+    "project_address": "Via San Gottardo 39",
+    "geocoded_addresses": [
+      {
+        "full_address": "39, Via San Gottardo, Daro, Carasso, Bellinzona, Circolo di Bellinzona, Distretto di Bellinzona, Ticino, 6500, Switzerland",
+        "latitude": "46.2011409",
+        "longitude": "9.0324009"
+      },
+      {
+        "full_address": "39, Via San Gottardo, Sigilletto, Forni Avoltri, Udine, Friuli – Venezia Giulia, 33020, Italy",
+        "latitude": "46.5783517",
+        "longitude": "12.8134203"
+      },
+      {
+        "full_address": "39, Via San Gottardo, Paùli/Monserrato, Casteddu/Cagliari, Sardinia, 09042, Italy",
+        "latitude": "39.2604573",
+        "longitude": "9.1453704"
+      },
+      {
+        "full_address": "39, Via San Gottardo, San Carlo, Airolo, Circolo di Airolo, Distretto di Leventina, Ticino, 6780, Switzerland",
+        "latitude": "46.5285418",
+        "longitude": "8.608987"
+      },
+      {
+        "full_address": "39, Via San Gottardo, Vezia, Circolo di Vezia, Distretto di Lugano, Ticino, 6943, Switzerland",
+        "latitude": "46.0294578",
+        "longitude": "8.93665595"
+      },
+      {
+        "full_address": "39, Via San Gottardo, Ambrì Sotto, Ambrì, Quinto, Circolo di Quinto, Distretto di Leventina, Ticino, 6775, Switzerland",
+        "latitude": "46.5080482",
+        "longitude": "8.702248390050693"
+      },
+      {
+        "full_address": "39, Via San Gottardo, Giornico, Circolo di Giornico, Distretto di Leventina, Ticino, 6745, Switzerland",
+        "latitude": "46.4024462",
+        "longitude": "8.8761561"
+      },
+      {
+        "full_address": "39a, Via San Gottardo, Daro, Carasso, Bellinzona, Circolo di Bellinzona, Distretto di Bellinzona, Ticino, 6500, Switzerland",
+        "latitude": "46.2012298",
+        "longitude": "9.0322451"
+      },
+      {
+        "full_address": "39b, Via San Gottardo, Bellinzona, Circolo di Bellinzona, Distretto di Bellinzona, Ticino, 6500, Switzerland",
+        "latitude": "46.20139545",
+        "longitude": "9.032594298158047"
+      },
+      {
+        "full_address": "39 A, Via San Gottardo, Villa, Coldrerio, Circolo di Mendrisio, Distretto di Mendrisio, Ticino, 6877, Switzerland",
+        "latitude": "45.855651050000006",
+        "longitude": "8.993937940124557"
+      }
+    ],
+    "full_address": "39, Via San Gottardo, Daro, Carasso, Bellinzona, Circolo di Bellinzona, Distretto di Bellinzona, Ticino, 6500, Switzerland",
+    "latitude": "46.2011409",
+    "longitude": "9.0324009",
+    "geocoding_status": "success"
+  }
+]
