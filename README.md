@@ -87,8 +87,8 @@ The ETL pipeline is orchestrated using Apache Airflow with the following tasks:
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd etl-pipeline
+git clone https://github.com/mauladiarif231/etl-pipeline-api.git
+cd etl-pipeline-api
 ```
 
 2. Create a `.env` file with your LocationIQ API key:
@@ -123,7 +123,7 @@ docker-compose exec airflow-webserver airflow dags trigger etl_dag
 
 Run the comprehensive test suite:
 ```bash
-./run_tests.sh
+chmod +x run_tests.sh && ./run_tests.sh
 ```
 
 Or run individual test files:
